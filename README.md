@@ -1,5 +1,7 @@
 # Netflix Movies and TV Shows Data Analysis
 
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+
 ## **Project Overview**
 
 This project analyzes the **Netflix Movies and TV Shows dataset** using SQL to uncover patterns, trends, and insights in content distribution, genre preferences, country-wise availability, popular actors, and content categorization. The goal is to provide actionable insights that can help content strategists, marketing teams, and data analysts make informed decisions.
